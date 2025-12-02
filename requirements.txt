@@ -1,0 +1,24 @@
+# Flask Web框架
+flask
+
+# 计算机视觉相关
+opencv-python
+numpy
+
+# YOLO目标检测
+ultralytics
+
+# Neo4j图数据库
+neo4j
+
+# 数据处理
+pandas
+
+# 配置管理
+python-dotenv
+
+# 日期时间处理
+python-dateutil
+
+# 海康相机SDK
+# hikvision-sdk
